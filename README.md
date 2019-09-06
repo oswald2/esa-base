@@ -1,2 +1,3 @@
-# esa-base
-Base repository for esa-space-protocols and esa-mib. Contains some basic types used in both libraries
+# Moved
+
+This project was moved to https://github.com/oswald2/AURIS/tree/master/esa-base
